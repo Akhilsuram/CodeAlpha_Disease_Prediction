@@ -1,0 +1,12 @@
+Accuracy: 0.8852
+ROC-AUC: 0.9464
+
+Classification Report:
+                  precision    recall  f1-score   support
+
+No heart disease       0.96      0.82      0.89        33
+   Heart disease       0.82      0.96      0.89        28
+
+        accuracy                           0.89        61
+       macro avg       0.89      0.89      0.89        61
+    weighted avg       0.90      0.89      0.89        61
